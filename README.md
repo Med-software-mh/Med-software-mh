@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Med-software-mh
+- 👋 Hi, I’m @Zaari Mohamed 
 - 👀 I’m interested in:
    web development
    machine learning
